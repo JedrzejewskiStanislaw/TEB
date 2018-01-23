@@ -7,4 +7,3 @@ window.alert("wiadomość");
 w
 wielu
 liniach*/
-
